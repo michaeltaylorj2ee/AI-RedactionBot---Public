@@ -19,5 +19,6 @@ Must have Azure Computer Vision and Azure Text Analytics Key
 
 Add these keys to the "2. Microsoft NLP Get PII Entities DT" File. The variables to change are:
 
-AzureCompVisionKey
-OCPAzureTextAnalyticsKey
+-AzureCompVisionKey
+
+-OCPAzureTextAnalyticsKey
